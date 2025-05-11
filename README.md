@@ -31,7 +31,42 @@ Call centers receive thousands of customer queries daily, and it's vital to main
 - **DAX** – Custom measures and KPIs (e.g., CSAT%, AHT, issue resolution rate).
 
 ---
+## Key Performance Indicators (KPIs)
+The following KPIs are tracked and analyzed for continuous improvement:
 
+- **Average Handle Time (AHT):**  
+  Measures the average time spent by agents on a customer call (talk time, hold time, wrap-up).
+
+- **First Call Resolution (FCR):**  
+  Tracks the percentage of customer issues resolved during the first interaction, reducing the need for follow-up calls.
+
+- **Customer Satisfaction Score (CSAT):**  
+  Captures customer satisfaction based on post-call surveys.
+
+- **Net Promoter Score (NPS):**  
+  Measures customer loyalty by evaluating the likelihood of customers recommending the service to others.
+
+- **Service Level:**  
+  The percentage of calls answered within a specified time, e.g., 80% of calls answered within 30 seconds.
+
+- **Abandonment Rate:**  
+  Tracks the percentage of calls where customers hang up before speaking to an agent.
+
+- **Agent Utilization Rate:**  
+  Indicates the proportion of time agents are actively handling calls versus idle time.
+
+- **Call Volume:**  
+  The total number of calls received by the call center within a specific period.
+
+- **Occupancy Rate:**  
+  Measures how much time agents spend actively engaged with calls compared to their total available time.
+
+- **Call Transfer Rate:**  
+  The percentage of calls that require transferring to another agent or department.
+
+- **Response Time:**  
+  The average time taken for agents to respond to the customer’s initial query.
+---
 ## 🔍 Insights
 
 - 🔍 **CSAT (Customer Satisfaction)** is low at **49.90%**, indicating service dissatisfaction.
