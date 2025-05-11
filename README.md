@@ -64,7 +64,7 @@ Call centers receive thousands of customer queries daily, and it's vital to main
 
 ## 📸 Dashboard Preview
 
-![Call Center Dashboard]([screenshots/call_center_dashboard.png](https://github.com/anusreemv/Call-Center-Analysis-Dashboard-PwC-Virtual-Internship-Project-using-Power-BI/blob/main/call_center_analysis_dashboard.png)
+![Call Center Dashboard](call_center_analysis_dashboard.png)
 
 ---
 
