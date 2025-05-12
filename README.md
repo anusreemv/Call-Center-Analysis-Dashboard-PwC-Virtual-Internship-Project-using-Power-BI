@@ -69,21 +69,21 @@ The following KPIs are tracked and analyzed for continuous improvement:
 ---
 ## 🔍 Insights
 
-- 🔍 **CSAT (Customer Satisfaction)** is low at **49.90%**, indicating service dissatisfaction.
-- 🔍 The majority of calls are **unresolved (72.9%)**, which strongly correlates with low CSAT.
-- 🔍 Highest call volumes were for **Streaming** and **Technical Support** topics.
-- 🔍 **Jim** resolved the most issues (**485**), while **Diane** had the lowest **average handle time**.
-- 🔍 Peak call hours are between **12 PM and 3 PM**, requiring optimal staffing during these times.
+- **CSAT (Customer Satisfaction)** is low at **49.90%**, indicating service dissatisfaction.
+- The majority of calls are **unresolved (72.9%)**, which strongly correlates with low CSAT.
+- Highest call volumes were for **Streaming** and **Technical Support** topics.
+- **Jim** resolved the most issues (**485**), while **Diane** had the lowest **average handle time**.
+- Peak call hours are between **12 PM and 3 PM**, requiring optimal staffing during these times.
 
 ---
 
 ## 💡 Recommendations
 
-- 💡 **Improve resolution rate** by upskilling agents and optimizing the ticket triage process.
-- 💡 **Conduct training sessions** for agents with high call abandonment or low CSAT scores.
-- 💡 **Boost customer satisfaction** by reducing average handle and answer times.
-- 💡 **Reschedule agent shifts** to better align with peak call hours.
-- 💡 **Investigate unresolved calls** by topic to find root causes and apply corrective action.
+- **Improve resolution rate** by upskilling agents and optimizing the ticket triage process.
+- **Conduct training sessions** for agents with high call abandonment or low CSAT scores.
+- **Boost customer satisfaction** by reducing average handle and answer times.
+- **Reschedule agent shifts** to better align with peak call hours.
+- **Investigate unresolved calls** by topic to find root causes and apply corrective action.
 
 ---
 
